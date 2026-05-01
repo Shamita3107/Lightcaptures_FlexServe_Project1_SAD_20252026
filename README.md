@@ -1,5 +1,4 @@
-# Project Title: FlexServe Photographer Booking System
-
+# Project Title: FlexServe AI MarketPlace
 Members:
 1. SHAMITA A/P DHEEVAN RAO
 2. KIRUTHYA A/P THINAGARAN
@@ -8,4 +7,4 @@ Members:
 5. KHAMALASHINIE A/P SUBRAMANIAM
 
 Description:
-AI-based booking system for photographers with smart scheduling and recommendations.
+AI-based booking system for service providers.
